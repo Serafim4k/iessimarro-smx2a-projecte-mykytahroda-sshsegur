@@ -27,7 +27,7 @@ Dissenyar i validar, en una xarxa virtual aïllada i sota autorització, una lí
 - **M2 — Configuració segura i validació:** 30/01/2027–12/02/2027.
 - Les incidències romanen obertes fins que el projecte s'execute i es valide.
 
-**Tauler de planificació:** [GitHub Projects](TAULER_URL_PENDENT)
+**Tauler de planificació:** [GitHub Projects](https://github.com/users/Serafim4k/projects/2)
 
 ## Entorn i límits de seguretat
 Les proves estan limitades a màquines virtuals pròpies en una xarxa host-only o equivalent. Els canvis de configuració es faran només després de comprovar que existeix un mètode de recuperació d'accés, especialment abans de desactivar l'autenticació per contrasenya.
