@@ -1,0 +1,13 @@
+# Fitxers temporals i esborranys locals: no han de formar part del lliurament.
+notes.log
+esborranys/
+
+# Credencials i claus: mai es publiquen al repositori.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
