@@ -1,6 +1,6 @@
 # A3 · Proves de connectivitat i accés des del client
 
-**Incidència associada:** #9 · Executar proves d'accés permès, denegat i connectivitat
+**Incidència associada:** #9 · Definir proves d'accés permès, denegat i connectivitat
 
 ## Nom de la tasca (Què?)
 Definir una matriu de proves per comprovar que el client autoritzat pot connectar-se al servidor SSH i que els accessos no autoritzats es rebutgen de manera esperada.
